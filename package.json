@@ -1,0 +1,21 @@
+{
+    "name": "e-corp-db",
+    "version": "1.0.0",
+    "description": "E_Corp Dabase Client",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/demian-arenas/proyecto-aula-e_corp.git"
+    },
+    "author": "Demian Arenas",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/demian-arenas/proyecto-aula-e_corp/issues"
+    },
+    "devDependencies": {
+        "standard": "^10.0.2"
+    }
+}
